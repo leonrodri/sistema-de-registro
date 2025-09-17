@@ -2,3 +2,6 @@
 
 - Estado de proyecto: En construccion.
 - 
+Para ajecutar el sistema debes poner:
+
+```install text```
