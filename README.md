@@ -5,3 +5,4 @@
 Para ajecutar el sistema debes poner:
 
 ```install text```
+ Sistema de registro 2
